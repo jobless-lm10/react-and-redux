@@ -1,2 +1,1 @@
-# react-redux-complete-playlist
-The course files for the React &amp; Redux Complete tutorial playlist on The Net Ninja YouTube channel.
+In this React tutorial I'll be showing you how to conditionally output parts of our template dependent on certain conditions within our data. To do this we'll use a combo of if statements and ternary operators.

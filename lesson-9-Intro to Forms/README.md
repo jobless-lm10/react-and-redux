@@ -1,2 +1,1 @@
-# react-redux-complete-playlist
-The course files for the React &amp; Redux Complete tutorial playlist on The Net Ninja YouTube channel.
+In this React tutorial I'll introduce you to the concept of forms in React and how to capture user data and store it on the component state.

@@ -1,2 +1,1 @@
-# react-redux-complete-playlist
-The course files for the React &amp; Redux Complete tutorial playlist on The Net Ninja YouTube channel.
+In this React tutorial we'll be looking at Components and how we can create & use them to take control of a part of a website.

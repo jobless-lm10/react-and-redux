@@ -1,2 +1,1 @@
-# react-redux-complete-playlist
-The course files for the React &amp; Redux Complete tutorial playlist on The Net Ninja YouTube channel.
+In this React tutorial I'll talk a little bit more about forms, and how we can keep our component state in sync with our input fields.

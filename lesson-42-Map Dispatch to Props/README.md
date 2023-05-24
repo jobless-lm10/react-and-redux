@@ -1,2 +1,1 @@
-# react-redux-complete-playlist
-The course files for the React &amp; Redux Complete tutorial playlist on The Net Ninja YouTube channel.
+In this React & Redux tutorial I'll show you how we can map a dispatch to our component props, so that we can fire a dispatch from our components. In this tutorial we'll be dispatching a delete action, to delete a blog post from our Redux store.

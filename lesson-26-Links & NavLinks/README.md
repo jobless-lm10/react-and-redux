@@ -1,2 +1,1 @@
-# react-redux-complete-playlist
-The course files for the React &amp; Redux Complete tutorial playlist on The Net Ninja YouTube channel.
+In this React tutorial I'll explain how we can use the Nav and NavLink tags from the React Router Dom package to create links in our project. These Link tags will stop the default behaviour of a request being made to the server.

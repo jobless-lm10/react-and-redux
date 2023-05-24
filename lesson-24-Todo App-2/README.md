@@ -1,2 +1,1 @@
-# react-redux-complete-playlist
-The course files for the React &amp; Redux Complete tutorial playlist on The Net Ninja YouTube channel.
+In this React tutorial I'll finish up the todo app we started in the last lesson. Here we'll focus on deleting todos.

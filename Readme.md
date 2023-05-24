@@ -1,2 +1,3 @@
 - In this course we'll be learning what React is and how to use it to make awesome, reactive SPA's. We'll also look at how we can use Redux to help with our app's state management.
+- In this complete React tutorial series, we'll cover all the basics of React, from the ground up, right through to creating full SPA's using Create React App, the React Router (v4) and Redux.
 - This course is from "The Net Nninja" YouTube channel on React@16.

@@ -1,2 +1,1 @@
-# react-redux-complete-playlist
-The course files for the React &amp; Redux Complete tutorial playlist on The Net Ninja YouTube channel.
+In this React tutorial I'll explain how we can pass functions to nested components as props. We can then call those functions from the nested components, to interact with the state on the parent component.

@@ -1,2 +1,1 @@
-# react-redux-complete-playlist
-The course files for the React &amp; Redux Complete tutorial playlist on The Net Ninja YouTube channel.
+In this React tuorial I'll explain exctly what props are and how we can use them to pass data from one component (the parent) to another, nexted, component (the child).

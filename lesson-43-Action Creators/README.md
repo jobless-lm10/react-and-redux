@@ -1,2 +1,1 @@
-# react-redux-complete-playlist
-The course files for the React &amp; Redux Complete tutorial playlist on The Net Ninja YouTube channel.
+In this React & Redux tutorial I'll explain what action creators are and why we'd use them. We'll also create an action creator of our own, which will generate a DELETE action.

@@ -1,2 +1,1 @@
-# react-redux-complete-playlist
-The course files for the React &amp; Redux Complete tutorial playlist on The Net Ninja YouTube channel.
+In this React & Redux tutorial, I'll show you how to set up a Redux store in a React application. We'll also create our root reducer and pass it into our store. I'll also explain how our React app gains access to the store using a store Provider.
